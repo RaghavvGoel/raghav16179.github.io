@@ -1,0 +1,6 @@
+applications:
+- buildpack: https://github.com/cloudfoundry/staticfile-buildpack.git
+  host: https://raghav16179.github.io/thisisdoreamon.html
+  name: itsdoreamon-html
+  memory: 64M
+  stack: cflinuxfs2
